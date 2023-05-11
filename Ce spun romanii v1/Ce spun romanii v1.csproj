@@ -91,6 +91,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\back.jpg" />
     <Content Include="Resources\Care sunt cei mai importanți factori în decizia voastră de a urma o anumită carieră_.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

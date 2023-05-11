@@ -263,9 +263,9 @@
             // Question
             // 
             this.Question.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Question.Location = new System.Drawing.Point(428, 591);
+            this.Question.Location = new System.Drawing.Point(641, 617);
             this.Question.Name = "Question";
-            this.Question.Size = new System.Drawing.Size(1037, 90);
+            this.Question.Size = new System.Drawing.Size(824, 90);
             this.Question.TabIndex = 11;
             this.Question.Text = "Care e materia ta preferata?";
             this.Question.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -274,16 +274,16 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::Ce_spun_romanii_v1.Properties.Resources.Care_e_materia_ta_preferata__;
-            this.pictureBox2.Location = new System.Drawing.Point(12, 658);
+            this.pictureBox2.Location = new System.Drawing.Point(-3, 617);
             this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(425, 262);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
+            this.pictureBox2.Size = new System.Drawing.Size(638, 394);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 12;
             this.pictureBox2.TabStop = false;
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(441, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(441, 38);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(1024, 576);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -336,6 +336,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(1904, 1041);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);

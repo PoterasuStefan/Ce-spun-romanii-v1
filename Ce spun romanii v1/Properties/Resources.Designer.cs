@@ -73,6 +73,16 @@ namespace Ce_spun_romanii_v1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap back {
+            get {
+                object obj = ResourceManager.GetObject("back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Care_e_materia_ta_preferata__ {
             get {
                 object obj = ResourceManager.GetObject("Care e materia ta preferata__", resourceCulture);
